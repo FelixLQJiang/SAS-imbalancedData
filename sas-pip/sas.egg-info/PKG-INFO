@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: sas
+Version: 1.0
+Summary: A python package implementing the data-efficient contrastive learning proposed in https://arxiv.org/abs/2302.09195 by S. Joshi and B. Mirzasoleiman
+Author: Siddharth Joshi
+Author-email: sjoshi804@cs.ucla.edu
+Description-Content-Type: text/markdown
+
+A python package implementing the data-efficient contrastive learning proposed in https://arxiv.org/abs/2302.09195 by S. Joshi and B. Mirzasoleiman
